@@ -23,6 +23,6 @@
 #### - Inventory Tracking: Real-time mapping of container locations in the yard (Row/Tier/Slot).
 #### - Stacking Optimization: Heuristic-based suggestions for container placement to minimize retrieval time.
 #### - Alert System: Automated notifications for hazardous materials or overdue containers.
-### C.Gate & Truck Coordination
+### C. Gate & Truck Coordination
 #### - Appointment System: Trucks register arrival times to prevent gate congestion.
 #### - Real-time Dispatching: Notify truck drivers via the system when their container is ready for pickup.
