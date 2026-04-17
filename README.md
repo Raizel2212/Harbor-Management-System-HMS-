@@ -6,3 +6,5 @@
 ### -Operational Bottlenecks: Lack of synchronization between container discharge and truck arrival leads to long queues at the gate, wasting time and increasing costs.
 ### -Yard Inefficiency: Poor organization of container stacks (Yard) makes it difficult to retrieve specific containers, causing "double handling" delays.
 ### -Lack of Real-time Visibility: Manual tracking prevents stakeholders from responding quickly to delays or equipment failures.
+## Solution:
+### An automated, real-time management system that synchronizes the movement of vessels, containers, and trucks. The system utilizes an Intelligent Scheduling Algorithm to predict optimal container placement and provide real-time alerts for operational delays.
